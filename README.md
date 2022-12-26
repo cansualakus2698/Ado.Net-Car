@@ -1,2 +1,2 @@
 # Ado.Net-Car
-# Ado.Net kullanarak yapmış olduğum araç ekleme ve silme projesidir.
+ Ado.Net kullanarak yapmış olduğum araç ekleme ve silme projesidir.
